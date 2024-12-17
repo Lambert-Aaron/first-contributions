@@ -1626,4 +1626,4 @@
 - [brav68e] (https://github.com/Brav68e)
 - [psikyy] (https://github.com/Psikyy)
 - [Taumeh] (https://github.com/taumehh)
-- [Lambert-Aaron] (https://github.com/Lambert-Aaron)  
+- [Lambert-Aaron](https://github.com/Lambert-Aaron) 
